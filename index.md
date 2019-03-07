@@ -1,4 +1,4 @@
-## Welcome to DukeRupert's homepage!
+## DukeRupert's homepage!
 
 You can use the [editor on GitHub](https://github.com/perspicaciousPanurgic/perspicaciousPanurgic.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
