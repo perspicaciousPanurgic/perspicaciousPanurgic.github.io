@@ -6,7 +6,7 @@ This portfolio exists to demonstrate what I have learned. First, a recorded code
 
 In order to demonstrate the database management skills I have gained this portfolio includes a mongoDB database file with a simple REST style API used to query it. The API allows the user to search for an airport using the four-letter ICAO identifier or by the city name. This project showcases my ability to manipulate data, design a database, implement a RESTful API and create useful indexes to make queries more efficient. 
 
-### Informal Code Review
+### [Informal Code Review](https://github.com/perspicaciousPanurgic/codeReview)
 
 In this recorded code review I evaluate a program written for a previous class assignment. Written in C++ the program allows the user to play a dice game, commonly known as Farkle, via command line prompt. The purpose of this recording is to demonstrate my ability to informally summarize the function of the code, critique errors in design or implementation and propose improvements.
 
@@ -22,7 +22,7 @@ This link points to a Go program which allows you to play a game of Farkle throu
 
 The greatest challenge I faced during this project was learning Go. This was my first attempt to write anything in the Go language so it took quite a while before I was comfortable with the language. An advantage to this process though was it really helped me step outside my comfort zone. Since I could not simply fall back on something that I used in the past so it forced me to critically evaluate exactly what I was trying to do before writing a single line of code.
 
-### Database
+### [Database](https://github.com/perspicaciousPanurgic/FindAirport)
 
 This link points to a mongoDB database and python code created to query it using REST api principles. The API allows the user to search the database for an airport using either the ICAO airport identifier or by city. This demonstrate my ability to create and query a noSQL database such as MongoDB as well as create useful indexes and queries. 
 
