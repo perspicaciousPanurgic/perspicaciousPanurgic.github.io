@@ -1,5 +1,3 @@
-## Logan Williams's Portfolio!
-
 As a recent graduate from SNHU’s computer science program I have been well prepared to enter a career in software development. My coursework has taught me how to collaborate in a team environment and communicate with stakeholders. Technical skills such as software design, database management, data structures, algorithms and security were also developed. While this program has helped me very much it has also opened my eyes to how much I have left to learn.
 
 This portfolio exists to demonstrate what I have learned. First, a recorded code review about a program I wrote in C++ which allows the user to play Farkle in a command line prompt. Second, a rewrite of the C++ Farkle game in the Go programming language. Before this project I had never used Go and no prior course at SNHU had incorporated it. Not only did I rewrite the program in Go but I also redesigned it using test driven design (TDD) techniques. This improved the efficiency and stability of the program while teaching allowing me to practice TDD. 
